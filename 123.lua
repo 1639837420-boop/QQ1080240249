@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick()
+game:GetService("Players").LocalPlayer:Kick(Exploiter)
