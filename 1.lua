@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://pastefy.app/4mboXmqd/raw"))()e:D{f[1],_,f[0b11],h,j,f[0b1000],f[0b10000],f[0b1100],d}return a end end,L=function(a,b,c,d)a.H[d]=b+c return a.H[d]end}):M(...)
